@@ -1,5 +1,5 @@
 title = "Harbour Lodge Wellington"
-baseURL = ""
+baseURL = "https://test.harbourlodgewellington.com"
 languageCode = "en-us"
 theme = "ananke"
 
